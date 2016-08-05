@@ -1,0 +1,14 @@
+{
+  "appname": "InnovateHealth4All",
+  "scope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "EAFD7691-61AA-4A93-B637-F1FE7803B8DC",
+  "buyerid": "UnileverID1",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
